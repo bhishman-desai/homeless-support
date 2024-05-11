@@ -1,0 +1,8 @@
+#Folders
+.idea/
+out/
+
+#Files
+bdesai.iml
+credentials.prop.dev
+output.txt
